@@ -1,1 +1,5 @@
+# Transformer Playground
 
+This repository contains a small Jupyter notebook demonstrating a toy Transformer model with live attention visualization.
+
+Open `mini_transformer_playground.ipynb` in Jupyter or Colab to train the model and see the animations.
